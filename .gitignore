@@ -1,0 +1,4 @@
+backend/.env
+frontend/package-lock.json
+frontend/public/
+backend/node_modules
